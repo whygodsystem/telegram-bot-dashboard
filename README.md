@@ -1,2 +1,2 @@
-# max-bot-dashboard
+# telegram-bot-dashboard
 Расчетно-Графическая Работа
