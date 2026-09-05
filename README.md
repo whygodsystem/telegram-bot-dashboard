@@ -34,6 +34,7 @@
 
 ```bash
 pip install python-telegram-bot==20.7 dash pandas plotly
+```
 ## Шаг 2. Укажите токен бота
 
 Создайте в корневой папке проекта файл `.env` и запишите в него:
@@ -41,6 +42,7 @@ pip install python-telegram-bot==20.7 dash pandas plotly
 ```text
 BOT_TOKEN=ваш_токен_бота
 Вместо ваш_токен_бота подставьте настоящий токен, полученный от @BotFather.
+```
 
 Шаг 3. Запустите бота
 bash
